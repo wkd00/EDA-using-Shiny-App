@@ -1,5 +1,9 @@
 # EDA-using-Shiny-App
 
+## 0. Dashboard
+https://deokjaeshiny.shinyapps.io/final_project/
+To check the SHINY App dashboard, please visit the link above.
+
 ## 1. Introduction
 
 This report presents an analysis of a GPA dataset containing information from 2,000 students across seven columns. The study was conducted by 덕재, 요셉, and 정웅. The primary research questions addressed in this analysis are:
